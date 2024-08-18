@@ -19,3 +19,14 @@ http://172.16.29.34/ontest1/ontest1/461
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7Y80gYT7egS04-zEbKodr0Ia6JWwJ2MiN0CEx3isRGxkusnPypQ8JxXqFIozt7CFt0k&usqp=CAU",Asian tv
 http://172.16.29.34/ontest1/ontest1/184
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1920px-ATN_Bangla.svg.png",Atn Bangla
+http://172.16.29.34/ontest1/ontest1/187
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF",Atn news
+http://172.16.29.34/ontest1/ontest1/190
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla TV
+http://172.16.29.34/ontest1/ontest1/191
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png",Ananda TV
